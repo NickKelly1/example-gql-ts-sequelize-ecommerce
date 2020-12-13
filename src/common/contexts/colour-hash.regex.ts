@@ -1,0 +1,1 @@
+export const colourHashRegex = /^#[A-Fa-f0-9]{6}$/;
